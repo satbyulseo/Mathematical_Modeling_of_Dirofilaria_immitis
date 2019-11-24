@@ -1,6 +1,6 @@
 function dSdt = heartwormODE(t,S)
 % Define parameters
-%Nd = 1875000;
+
 a = 73602;
 Nd = 1000000;
 Nv = 56000;
